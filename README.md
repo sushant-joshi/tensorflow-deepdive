@@ -4,12 +4,12 @@ PyTorch is a powerful deep learning framework that has become a popular choice a
 
 ## Objectives:
 
-Master advanced PyTorch features for building and training neural networks
-Develop an understanding of PyTorch's distributed computing capabilities
-Learn how to optimize PyTorch code for performance on GPUs and other hardware
-Understand best practices for training large-scale models in PyTorch
-Explore advanced techniques for debugging and profiling PyTorch code
-Understand the latest research developments in PyTorch and their applications
+* Master advanced PyTorch features for building and training neural networks
+* Develop an understanding of PyTorch's distributed computing capabilities
+* Learn how to optimize PyTorch code for performance on GPUs and other hardware
+* Understand best practices for training large-scale models in PyTorch
+* Explore advanced techniques for debugging and profiling PyTorch code
+* Understand the latest research developments in PyTorch and their applications
 
 ## Outline:
 
