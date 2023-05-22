@@ -80,9 +80,4 @@ https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models
     - Compare predictions vs target data and compute eval metrics 
 5. Make Predictions on unseen data
     - This requires that you wrap the data in a PyTorch Tensor data structure. A Tensor is just the PyTorch version of a NumPy array for holding data. It also allows you to perform the automatic differentiation tasks in the model graph, like calling backward() when training the model. The prediction too will be a Tensor, although you can retrieve the NumPy array by detaching the Tensor from the automatic differentiation graph and calling the NumPy function.
-
-
-
-
-
 ```
