@@ -1,65 +1,64 @@
 
 # Tensorflow Bootcamp
 
-
 ## Objectives:
 
-* Master advanced Tensorflow features for building and training neural networks
-* Develop an understanding of Tensorflow's distributed computing capabilities
-* Learn how to optimize Tensorflow code for performance on GPUs and other hardware
-* Understand best practices for training large-scale models in Tensorflow
-* Explore advanced techniques for debugging and profiling Tensorflow code
-* Understand the latest research developments in Tensorflow and their applications
+- [x] Master advanced Tensorflow features for building and training neural networks
+- [] Develop an understanding of Tensorflow's distributed computing capabilities
+- [] Learn how to optimize Tensorflow code for performance on GPUs and other hardware
+- [] Understand best practices for training large-scale models in Tensorflow
+- [] Explore advanced techniques for debugging and profiling Tensorflow code
+- [] Understand the latest research developments in Tensorflow and their applications
 
 ## Outline:
 
-### Week 1:
-#### Module 1: Advanced Neural Network Architectures
+#### Advanced Neural Network Architectures
 
-* Introduction to advanced neural network architectures
-* Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers
-* State-of-the-art models for computer vision and natural language processing (NLP)
+- [] Introduction to advanced neural network architectures
+- [] Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers
+- [] State-of-the-art models for computer vision and natural language processing (NLP)
 
-#### Module 2: Distributed Computing with Tensorflow
+#### Distributed Computing with Tensorflow
 
-* Introduction to Tensorflow's distributed computing capabilities
-* Setting up and configuring distributed training
-* Synchronization techniques, data parallelism, and model parallelism
+- [] Introduction to Tensorflow's distributed computing capabilities
+- [] Setting up and configuring distributed training
+- [] Synchronization techniques, data parallelism, and model parallelism
 
-#### Module 3: Tensorflow Performance Optimization
+#### Tensorflow Performance Optimization
 
-* Overview of Tensorflow performance optimization techniques
-* Best practices for optimizing Tensorflow code for GPUs and other hardware
-* Mixed-precision training, parallelism, and optimizing memory usage
+- [] Overview of Tensorflow performance optimization techniques
+- [] Best practices for optimizing Tensorflow code for GPUs and other hardware
+- [] Mixed-precision training, parallelism, and optimizing memory usage
 
-#### Module 4: Large-scale Model Training in Tensorflow
+#### Large-scale Model Training in Tensorflow
 
-* Scaling up training to large datasets
-* Strategies for efficient data loading, preprocessing, and augmentation
-* Distributed training on large-scale datasets
+- [] Scaling up training to large datasets
+- [] Strategies for efficient data loading, preprocessing, and augmentation
+- [] Distributed training on large-scale datasets
 
-### Week 2:
-#### Module 5: Advanced Tensorflow Debugging and Profiling
+#### Advanced Tensorflow Debugging and Profiling
 
-* Overview of Tensorflow's debugging and profiling tools
-* Advanced techniques for debugging Tensorflow code
-* Profiling Tensorflow code for performance bottlenecks
+- [] Overview of Tensorflow's debugging and profiling tools
+- [] Advanced techniques for debugging Tensorflow code
+- [] Profiling Tensorflow code for performance bottlenecks
 
-#### Module 6: Tensorflow Research Developments and Applications
+#### Tensorflow Research Developments and Applications
 
-* Latest research developments in Tensorflow
-* Applications of Tensorflow in domains such as healthcare, robotics, and autonomous driving
-* Future directions and trends in deep learning and Tensorflow
+- [] Latest research developments in Tensorflow
+- [] Applications of Tensorflow in domains such as healthcare, robotics, and autonomous driving
+- [] Future directions and trends in deep learning and Tensorflow
 
-#### Module 7: Capstone Project
+#### Capstone Project
 
-* Apply the knowledge and skills acquired throughout the bootcamp to a practical project
-* Develop and train an advanced deep learning model using Tensorflow
-* Present and showcase the project to the world
+- [] Apply the knowledge and skills acquired throughout the bootcamp to a practical project
+- [] Develop and train an advanced deep learning model using Tensorflow
+- [] Present and showcase the project to the world
+
+
 
 
 ```
-https://machinelearningmastery.com/Tensorflow-tutorial-develop-deep-learning-models/
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/ 
 
 1. Prepare the Data. 
     - Tensorflow provides the Dataset class that you can extend and customize to load your dataset.
@@ -80,4 +79,8 @@ https://machinelearningmastery.com/Tensorflow-tutorial-develop-deep-learning-mod
     - Compare predictions vs target data and compute eval metrics 
 5. Make Predictions on unseen data
     - This requires that you wrap the data in a Tensorflow Tensor data structure. A Tensor is just the Tensorflow version of a NumPy array for holding data. It also allows you to perform the automatic differentiation tasks in the model graph, like calling backward() when training the model. The prediction too will be a Tensor, although you can retrieve the NumPy array by detaching the Tensor from the automatic differentiation graph and calling the NumPy function.
+```
+
+```
+https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
 ```
