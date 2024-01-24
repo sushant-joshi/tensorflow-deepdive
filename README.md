@@ -14,9 +14,13 @@
 
 #### Advanced Neural Network Architectures
 
-- [] Introduction to advanced neural network architectures
-- [] Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformers
-- [] State-of-the-art models for computer vision and natural language processing (NLP)
+- [x] Tensorflow Sequential and Functional API
+- [x] Custom Loss Functions, Custom Layers and Custom Models
+- [x] Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and LSTMs
+- [x] State-of-the-art models for computer vision and image processing 
+- [x] State-of-the-art models for natural language processing (NLP)
+- [x] State-of-the-art models for Time Series and Sequences
+
 
 #### Distributed Computing with Tensorflow
 
