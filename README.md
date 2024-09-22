@@ -1,62 +1,53 @@
 
-# Tensorflow Bootcamp
-
-## Objectives:
-
-- [x] Master advanced Tensorflow features for building and training neural networks
-- [] Develop an understanding of Tensorflow's distributed computing capabilities
-- [] Learn how to optimize Tensorflow code for performance on GPUs and other hardware
-- [] Understand best practices for training large-scale models in Tensorflow
-- [] Explore advanced techniques for debugging and profiling Tensorflow code
-- [] Understand the latest research developments in Tensorflow and their applications
+# Tensorflow Deepdive
 
 ## Outline:
 
 #### Advanced Neural Network Architectures
 
-- [x] Tensorflow Sequential and Functional API
-- [x] Custom Loss Functions, Custom Layers and Custom Models
-- [x] Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and LSTMs
-- [x] State-of-the-art models for computer vision and image processing 
-- [x] State-of-the-art models for natural language processing (NLP)
-- [x] State-of-the-art models for Time Series and Sequences
+- Tensorflow Sequential and Functional API
+- Custom Loss Functions, Custom Layers and Custom Models
+- Convolutional neural networks (CNNs), recurrent neural networks (RNNs), and LSTMs
+- State-of-the-art models for computer vision and image processing 
+- State-of-the-art models for natural language processing (NLP)
+- State-of-the-art models for Time Series and Sequences
 
 
 #### Distributed Computing with Tensorflow
 
-- [] Introduction to Tensorflow's distributed computing capabilities
-- [] Setting up and configuring distributed training
-- [] Synchronization techniques, data parallelism, and model parallelism
+- Introduction to Tensorflow's distributed computing capabilities
+- Setting up and configuring distributed training
+- Synchronization techniques, data parallelism, and model parallelism
 
 #### Tensorflow Performance Optimization
 
-- [] Overview of Tensorflow performance optimization techniques
-- [] Best practices for optimizing Tensorflow code for GPUs and other hardware
-- [] Mixed-precision training, parallelism, and optimizing memory usage
+- Overview of Tensorflow performance optimization techniques
+- Best practices for optimizing Tensorflow code for GPUs and other hardware
+- Mixed-precision training, parallelism, and optimizing memory usage
 
 #### Large-scale Model Training in Tensorflow
 
-- [] Scaling up training to large datasets
-- [] Strategies for efficient data loading, preprocessing, and augmentation
-- [] Distributed training on large-scale datasets
+- Scaling up training to large datasets
+- Strategies for efficient data loading, preprocessing, and augmentation
+- Distributed training on large-scale datasets
 
 #### Advanced Tensorflow Debugging and Profiling
 
-- [] Overview of Tensorflow's debugging and profiling tools
-- [] Advanced techniques for debugging Tensorflow code
-- [] Profiling Tensorflow code for performance bottlenecks
+- Overview of Tensorflow's debugging and profiling tools
+- Advanced techniques for debugging Tensorflow code
+- Profiling Tensorflow code for performance bottlenecks
 
 #### Tensorflow Research Developments and Applications
 
-- [] Latest research developments in Tensorflow
-- [] Applications of Tensorflow in domains such as healthcare, robotics, and autonomous driving
-- [] Future directions and trends in deep learning and Tensorflow
+- Latest research developments in Tensorflow
+- Applications of Tensorflow in domains such as healthcare, robotics, and autonomous driving
+- Future directions and trends in deep learning and Tensorflow
 
 #### Capstone Project
 
-- [] Apply the knowledge and skills acquired throughout the bootcamp to a practical project
-- [] Develop and train an advanced deep learning model using Tensorflow
-- [] Present and showcase the project to the world
+- Apply the knowledge and skills acquired throughout the bootcamp to a practical project
+- Develop and train an advanced deep learning model using Tensorflow
+- Present and showcase the project to the world
 
 
 
